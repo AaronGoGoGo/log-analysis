@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>mrs-preprocess</artifactId>
+    <artifactId>log-analysi-preprocess</artifactId>
     <dependencies>
         <dependency>
             <groupId>log-analysis</groupId>
